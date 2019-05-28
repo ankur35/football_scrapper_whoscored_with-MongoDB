@@ -12,3 +12,5 @@ and connect with mongoDB server, MongoDB default server is
     port = 27017
 and this way your scraped data will be  uploaded into Mongo compass.
 
+whoscored.rar has all the five year bundesliga data 
+it contains, standing table , team reports and match reports
